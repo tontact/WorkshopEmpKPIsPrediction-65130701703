@@ -4,6 +4,3 @@ pandas
 xgboost
 matplotlib
 seaborn
-mlp
-RandomForestClassifier
- 
